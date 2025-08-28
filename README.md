@@ -31,8 +31,7 @@ This project is an **interactive Power BI dashboard** that provides insights int
 ---
 
 ## Dashboard Preview
-![Global Unicorn Dashboard](./dashboard.png)  
-*(Replace `dashboard.png` with your uploaded screenshot filename)*  
+![Global Unicorn Dashboard](![Unicorn_Companies_Dashboard](https://github.com/user-attachments/assets/82dfe000-0fd5-4939-b89a-08b3e7fb3b47))   
 
 ---
 
